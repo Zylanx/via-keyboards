@@ -2,7 +2,7 @@
   "name": "KPRepublic BM40 RGB",
   "vendorId": "0x4B50",
   "productId": "0x3430",
-  "lighting": "qmk_backlight_rgblight",
+  "lighting": "none",
   "matrix": {
     "rows": 4,
     "cols": 12
